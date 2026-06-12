@@ -1,5 +1,5 @@
 # Lenny's Podcast — All Episodes
-*Generated: 2026-06-12 | 132 episodes | 2025-06-01 → 2026-06-11*
+*Generated: 2026-06-12 | 237 episodes | 2025-06-01 → 2026-06-11*
 
 ---
 
@@ -417,10 +417,40 @@
 
 ---
 
+## 2026-03-04 | Lenny Rachitsky — Design has evolved into two paths
+**Type:** Interview | **Duration:** 0m | **Views:** 2,490 | **Tags:** #design
+[YouTube](https://www.youtube.com/watch?v=qy5kf0HaDu4)
+
+---
+
+## 2026-03-03 | Lenny Rachitsky — 3 types of designers you need on your team
+**Type:** Interview | **Duration:** 1m | **Views:** 2,932 | **Tags:** #design #leadership
+[YouTube](https://www.youtube.com/watch?v=GSvf-5JI3Yo)
+
+---
+
+## 2026-03-02 | Lenny Rachitsky — The design process is dead
+**Type:** Interview | **Duration:** 0m | **Views:** 2,730 | **Tags:** #design
+[YouTube](https://www.youtube.com/watch?v=mhhF8JQzUDo)
+
+---
+
 ## 2026-03-01 | Jenny Wen — The design process is dead. Here’s what’s replacing it.
 **Companies:** head of design at Claude
 **Type:** Interview | **Duration:** 1h 17m | **Views:** 309,200 | **Tags:** #ai #b2b #consumer #design #engineering #founder-advice #fundraising #hiring #metrics #product #startup
 [YouTube](https://www.youtube.com/watch?v=eh8bcBIAAFo)
+
+---
+
+## 2026-02-28 | Lenny Rachitsky — Follow megatrends, not hype cycles
+**Type:** Interview | **Duration:** 0m | **Views:** 2,065
+[YouTube](https://www.youtube.com/watch?v=GBNs2KBvW8U)
+
+---
+
+## 2026-02-27 | Lenny Rachitsky — Praise in private, criticize in public
+**Type:** Interview | **Duration:** 0m | **Views:** 1,429 | **Tags:** #career #leadership
+[YouTube](https://www.youtube.com/watch?v=UWYCwtecjfA)
 
 ---
 
@@ -430,9 +460,51 @@
 
 ---
 
+## 2026-02-24 | Lenny Rachitsky — How is Claude evolving?
+**Type:** Interview | **Duration:** 0m | **Views:** 2,925 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=t5Nitx9tgYU)
+
+---
+
+## 2026-02-23 | Lenny Rachitsky — Don't get stuck using old models
+**Type:** Interview | **Duration:** 0m | **Views:** 2,617 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=-ouT8bd9MyE)
+
+---
+
+## 2026-02-22 | Lenny Rachitsky — Claude Code walked so Cowork could run
+**Type:** Interview | **Duration:** 0m | **Views:** 2,777 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=yuz0NlAF5Hg)
+
+---
+
+## 2026-02-21 | Lenny Rachitsky — Build for the models of the future
+**Type:** Interview | **Duration:** 0m | **Views:** 2,724 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=8DxN2t1LphU)
+
+---
+
+## 2026-02-20 | Lenny Rachitsky — "Claude Code writes 100 percent of my code"
+**Type:** Interview | **Duration:** 0m | **Views:** 3,065 | **Tags:** #ai #engineering
+[YouTube](https://www.youtube.com/watch?v=FV5-Ei_dne4)
+
+---
+
 ## 2026-02-19 | Boris Cherny — Head of Claude Code: What happens after coding is solved
 **Type:** Interview | **Duration:** 1h 27m | **Views:** 533,732 | **Tags:** #ai #engineering #founder-advice #fundraising #hiring #leadership #marketplace #product #saas #startup
 [YouTube](https://www.youtube.com/watch?v=We7BZVKbCVw)
+
+---
+
+## 2026-02-18 | Lenny Rachitsky — Four signs a CEO is the real deal
+**Type:** Interview | **Duration:** 0m | **Views:** 3,348 | **Tags:** #career #founder-advice #leadership #startup
+[YouTube](https://www.youtube.com/watch?v=ncZ_ldFgCZ8)
+
+---
+
+## 2026-02-17 | Lenny Rachitsky — CEOs aren't there to be liked
+**Type:** Interview | **Duration:** 0m | **Views:** 3,484 | **Tags:** #career #leadership
+[YouTube](https://www.youtube.com/watch?v=SElFGCZj-tk)
 
 ---
 
@@ -442,9 +514,45 @@
 
 ---
 
+## 2026-02-15 | Lenny Rachitsky — Software engineers are like wizards
+**Type:** Interview | **Duration:** 0m | **Views:** 5,642
+[YouTube](https://www.youtube.com/watch?v=lVDJN2GgpVA)
+
+---
+
+## 2026-02-14 | Lenny Rachitsky — "Codex reviews all of our PRs"
+**Type:** Interview | **Duration:** 0m | **Views:** 3,409
+[YouTube](https://www.youtube.com/watch?v=meejSpLFuOo)
+
+---
+
+## 2026-02-13 | Lenny Rachitsky — The 1 person billion-dollar startup effect
+**Type:** Interview | **Duration:** 1m | **Views:** 4,332 | **Tags:** #startup
+[YouTube](https://www.youtube.com/watch?v=Ly1LrU3Wp3A)
+
+---
+
 ## 2026-02-12 | Sherwin Wu — OpenAI’s head of platform engineering on the next 12-24 months of AI
 **Type:** Interview | **Duration:** 1h 19m | **Views:** 80,445 | **Tags:** #ai #china #engineering #fundraising #saas #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=B26CwKm5C1k)
+
+---
+
+## 2026-02-12 | Lenny Rachitsky — Why AI errors are actually your fault
+**Type:** Interview | **Duration:** 1m | **Views:** 1,671 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=r5pimkmvjP4)
+
+---
+
+## 2026-02-11 | Lenny Rachitsky — Coding is becoming calligraphy
+**Type:** Interview | **Duration:** 0m | **Views:** 1,800 | **Tags:** #engineering
+[YouTube](https://www.youtube.com/watch?v=ngep42tlnlY)
+
+---
+
+## 2026-02-10 | Lenny Rachitsky — Is it worth learning to code?
+**Type:** Interview | **Duration:** 0m | **Views:** 1,861 | **Tags:** #engineering
+[YouTube](https://www.youtube.com/watch?v=xLmkKFjgKzg)
 
 ---
 
@@ -454,9 +562,69 @@
 
 ---
 
+## 2026-02-08 | Lenny Rachitsky — The formula for building resilience
+**Type:** Interview | **Duration:** 1m | **Views:** 2,079 | **Tags:** #career #leadership
+[YouTube](https://www.youtube.com/watch?v=KrvKD_a8H9A)
+
+---
+
+## 2026-02-07 | Lenny Rachitsky — The perspective that changes behavior
+**Type:** Interview | **Duration:** 0m | **Views:** 1,496 | **Tags:** #career #leadership
+[YouTube](https://www.youtube.com/watch?v=aDU95pdThA8)
+
+---
+
+## 2026-02-06 | Lenny Rachitsky — The skill gap is about to explode
+**Type:** Interview | **Duration:** 1m | **Views:** 4,584
+[YouTube](https://www.youtube.com/watch?v=o23orRqZFWA)
+
+---
+
+## 2026-02-05 | Lenny Rachitsky — Why AI is the Philosopher's Stone
+**Type:** Interview | **Duration:** 0m | **Views:** 1,682 | **Tags:** #ai #startup
+[YouTube](https://www.youtube.com/watch?v=P0GIQWyedTM)
+
+---
+
+## 2026-02-04 | Lenny Rachitsky — How to give your kid an unfair advantage
+**Type:** Interview | **Duration:** 1m | **Views:** 2,523
+[YouTube](https://www.youtube.com/watch?v=_K7fleyVKd8)
+
+---
+
+## 2026-02-03 | Lenny Rachitsky — Will AI replace jobs?
+**Type:** Interview | **Duration:** 0m | **Views:** 2,577 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=tYjCtCCgIYc)
+
+---
+
+## 2026-02-02 | Lenny Rachitsky — Will PMs, designers, and coders merge?
+**Type:** Interview | **Duration:** 0m | **Views:** 2,984 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=14MnUsSc0kY)
+
+---
+
 ## 2026-02-01 | Dr. Becky Kennedy — A child psychologist’s guide to working with difficult adults
 **Type:** Interview | **Duration:** 1h 31m | **Views:** 19,826 | **Tags:** #ai #career #china #founder-advice #fundraising #leadership #product #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=Auxs8ZsHRI4)
+
+---
+
+## 2026-02-01 | Lenny Rachitsky — Should your kids learn to code?
+**Type:** Interview | **Duration:** 0m | **Views:** 2,351 | **Tags:** #engineering
+[YouTube](https://www.youtube.com/watch?v=rpF_cHOLnV4)
+
+---
+
+## 2026-01-31 | Lenny Rachitsky — The 3 types of AI founders
+**Type:** Interview | **Duration:** 1m | **Views:** 4,053 | **Tags:** #ai #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=8hWrDJ8IzIg)
+
+---
+
+## 2026-01-30 | Lenny Rachitsky — Why the AI job loss panic is wrong
+**Type:** Interview | **Duration:** 1m | **Views:** 2,957 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=HXVs5I8W018)
 
 ---
 
@@ -473,6 +641,24 @@
 
 ---
 
+## 2026-01-21 | Lenny Rachitsky — New grads should be excited right now
+**Type:** Interview | **Duration:** 0m | **Views:** 4,078 | **Tags:** #career #startup
+[YouTube](https://www.youtube.com/watch?v=2DbSf0V1iNY)
+
+---
+
+## 2026-01-20 | Lenny Rachitsky — Every AI model has a distinct personality
+**Type:** Interview | **Duration:** 1m | **Views:** 2,813 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=O24tyhMiYuU)
+
+---
+
+## 2026-01-18 | Lenny Rachitsky — Silicon Valley's worst advice for founders
+**Type:** Interview | **Duration:** 0m | **Views:** 3,795 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=DEtbsvm-Fhg)
+
+---
+
 ## 2026-01-18 | Zevi Arnovitz — How a Meta PM ships products without ever writing code
 **Type:** Interview | **Duration:** 1h 15m | **Views:** 102,596 | **Tags:** #ai #b2b #consumer #engineering #founder-advice #fundraising #leadership #product #startup
 [YouTube](https://www.youtube.com/watch?v=1em64iUFt3U)
@@ -485,15 +671,57 @@
 
 ---
 
+## 2026-01-15 | Lenny Rachitsky — The multi-agent system trap
+**Type:** Interview | **Duration:** 0m | **Views:** 3,651 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=hnx_-v9HDZA)
+
+---
+
 ## 2026-01-11 | Lenny Rachitsky — Why most AI products fail: Lessons from 50+ AI deployments at OpenAI, Google & Amazon
 **Type:** Interview | **Duration:** 1h 26m | **Views:** 44,591 | **Tags:** #ai #b2b #engineering #founder-advice #fundraising #leadership #product #saas #startup
 [YouTube](https://www.youtube.com/watch?v=z7T1pCxgvlA)
 
 ---
 
+## 2026-01-07 | Lenny Rachitsky — The career stairs trap
+**Type:** Interview | **Duration:** 0m | **Views:** 3,097 | **Tags:** #career #growth
+[YouTube](https://www.youtube.com/watch?v=wrbTFrIqcfU)
+
+---
+
+## 2026-01-06 | Lenny Rachitsky — You can't force company culture
+**Type:** Interview | **Duration:** 0m | **Views:** 9,000 | **Tags:** #career #leadership #startup
+[YouTube](https://www.youtube.com/watch?v=XudmOTg6UFw)
+
+---
+
+## 2026-01-05 | Lenny Rachitsky — "Give away your Legos"
+**Type:** Interview | **Duration:** 1m | **Views:** 3,606 | **Tags:** #career #founder-advice #growth
+[YouTube](https://www.youtube.com/watch?v=M7R6pGLNAaQ)
+
+---
+
 ## 2026-01-04 | Molly Graham — “I like being scared”: Molly Graham’s frameworks for rapid career growth
 **Type:** Interview | **Duration:** 1h 31m | **Views:** 32,345 | **Tags:** #ai #career #founder-advice #growth #leadership #product
 [YouTube](https://www.youtube.com/watch?v=twzLDx9iers)
+
+---
+
+## 2026-01-03 | Lenny Rachitsky — "We're done with hiring humans"
+**Type:** Interview | **Duration:** 0m | **Views:** 4,889 | **Tags:** #career #hiring #sales #startup
+[YouTube](https://www.youtube.com/watch?v=DSUCSGU05DU)
+
+---
+
+## 2026-01-02 | Lenny Rachitsky — These sales roles are being replaced by AI
+**Type:** Interview | **Duration:** 1m | **Views:** 5,599 | **Tags:** #ai #career #sales #startup
+[YouTube](https://www.youtube.com/watch?v=HK6dtaX4I8w)
+
+---
+
+## 2026-01-02 | Lenny Rachitsky — Is AI about to wipe out a huge part of sales?
+**Type:** Interview | **Duration:** 1m | **Views:** 4,909 | **Tags:** #ai #founder-advice #sales #startup
+[YouTube](https://www.youtube.com/watch?v=R0QFrGKVgIA)
 
 ---
 
@@ -504,9 +732,33 @@
 
 ---
 
+## 2025-12-31 | Lenny Rachitsky — What separates great teams from the rest
+**Type:** Interview | **Duration:** 0m | **Views:** 1,830 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=-CXiuquaGHc)
+
+---
+
+## 2025-12-30 | Lenny Rachitsky — Matt MacInnis founded Inkling and is now COO at Rippling
+**Type:** Interview | **Duration:** 1m | **Views:** 10,396 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=SYbKTTEWjIg)
+
+---
+
+## 2025-12-29 | Lenny Rachitsky — "Teams will always optimize for local comfort"
+**Type:** Interview | **Duration:** 1m | **Views:** 6,545 | **Tags:** #career #founder-advice #leadership #startup
+[YouTube](https://www.youtube.com/watch?v=l0oopoYXz6c)
+
+---
+
 ## 2025-12-28 | Leadership lessons from Rippling’s $16B journey — “I deliberately understaff every project”
 **Type:** Interview | **Duration:** 1h 36m | **Views:** 39,282 | **Tags:** #ai #career #fundraising #leadership #marketplace #product #saas #venture-capital
 [YouTube](https://www.youtube.com/watch?v=O_W76LR77Vw)
+
+---
+
+## 2025-12-24 | Lenny Rachitsky — How a chatbot can get hijacked
+**Type:** Interview | **Duration:** 1m | **Views:** 5,556 | **Tags:** #startup
+[YouTube](https://www.youtube.com/watch?v=NcIBcfWpBPQ)
 
 ---
 
@@ -522,9 +774,45 @@
 
 ---
 
+## 2025-12-18 | Lenny Rachitsky — Why coding agents are the future
+**Type:** Interview | **Duration:** 0m | **Views:** 3,199
+[YouTube](https://www.youtube.com/watch?v=OJanTAx4Oec)
+
+---
+
+## 2025-12-17 | Lenny Rachitsky — How new grads can stand out
+**Type:** Interview | **Duration:** 0m | **Views:** 2,030 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=32FesiSLiuw)
+
+---
+
+## 2025-12-16 | Lenny Rachitsky — How far are we from AGI?
+**Type:** Interview | **Duration:** 0m | **Views:** 2,905
+[YouTube](https://www.youtube.com/watch?v=mtEltdRhptw)
+
+---
+
 ## 2025-12-14 | Lenny Rachitsky — Inside OpenAI: 2026 is the year of agents, AI’s biggest bottleneck, and why compute isn’t the issue
 **Type:** Interview | **Duration:** 1h 25m | **Views:** 29,605 | **Tags:** #ai #b2b #consumer #engineering #founder-advice #fundraising #growth #leadership #metrics #product #saas #startup
 [YouTube](https://www.youtube.com/watch?v=z1ISq9Ty4Cg)
+
+---
+
+## 2025-12-09 | Lenny Rachitsky — Are we optimizing for AI slop?
+**Type:** Interview | **Duration:** 1m | **Views:** 5,038 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=NfiekAZlLuI)
+
+---
+
+## 2025-12-08 | Lenny Rachitsky — Why Surge AI is entirely bootstrapped
+**Type:** Interview | **Duration:** 0m | **Views:** 2,935 | **Tags:** #ai
+[YouTube](https://www.youtube.com/watch?v=OYz4ESr5Fbk)
+
+---
+
+## 2025-12-07 | Lenny Rachitsky — Why LinkedIn has a trust agent
+**Type:** Interview | **Duration:** 0m | **Views:** 1,782
+[YouTube](https://www.youtube.com/watch?v=NTxGePgvL08)
 
 ---
 
@@ -541,10 +829,22 @@
 
 ---
 
+## 2025-12-02 | Lenny Rachitsky — Can your sales team pass the PM test?
+**Type:** Interview | **Duration:** 0m | **Views:** 4,887 | **Tags:** #leadership #product #sales
+[YouTube](https://www.youtube.com/watch?v=oa4mgamoxMY)
+
+---
+
 ## 2025-11-30 | Jeanne DeWitt Grosser — What world-class GTM looks like in 2026
 **Companies:** Vercel, Stripe, Google
 **Type:** Interview | **Duration:** 1h 26m | **Views:** 90,499 | **Tags:** #ai #b2b #engineering #fundraising #hiring #pricing #product #sales #strategy
 [YouTube](https://www.youtube.com/watch?v=RmnWHz8HD74)
+
+---
+
+## 2025-11-24 | Lenny Rachitsky — Why leaders should learn to coach
+**Type:** Interview | **Duration:** 0m | **Views:** 1,781 | **Tags:** #career #leadership #startup
+[YouTube](https://www.youtube.com/watch?v=0x8H1l6wNIA)
 
 ---
 
@@ -554,15 +854,51 @@
 
 ---
 
+## 2025-11-21 | Lenny Rachitsky — Stop focusing on product friction
+**Type:** Interview | **Duration:** 1m | **Views:** 3,324 | **Tags:** #founder-advice #growth #product #startup
+[YouTube](https://www.youtube.com/watch?v=cPujjPgUnHo)
+
+---
+
 ## 2025-11-20 | Lenny Rachitsky — Mental models for building products people love ft. Stewart Butterfield
 **Type:** Interview | **Duration:** 1h 30m | **Views:** 44,054 | **Tags:** #ai #b2b #career #design #founder-advice #growth #leadership #product #saas #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=kLe-zy5r0Mk)
 
 ---
 
+## 2025-11-20 | Lenny Rachitsky — Why your product should embarrass you
+**Type:** Interview | **Duration:** 0m | **Views:** 2,436 | **Tags:** #founder-advice #growth #product #startup
+[YouTube](https://www.youtube.com/watch?v=RaFX5rnKKtY)
+
+---
+
+## 2025-11-18 | Lenny Rachitsky — Dr. Fei Fei's AI breakthrough
+**Type:** Interview | **Duration:** 1m | **Views:** 2,815 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=yMRg0pAlivk)
+
+---
+
 ## 2025-11-16 | Dr. Fei-Fei Li — The Godmother of AI on jobs, robots & why world models are next
 **Type:** Interview | **Duration:** 1h 19m | **Views:** 157,941 | **Tags:** #ai #b2b #engineering #founder-advice #infrastructure #product #startup
 [YouTube](https://www.youtube.com/watch?v=Ctjiatnd6Xk)
+
+---
+
+## 2025-11-15 | Lenny Rachitsky — Gamma's 24-hour prototype playbook
+**Type:** Interview | **Duration:** 0m | **Views:** 2,861 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=G4r7xTyq7dc)
+
+---
+
+## 2025-11-14 | Lenny Rachitsky — How rejection gave Gamma an edge
+**Type:** Interview | **Duration:** 0m | **Views:** 2,058 | **Tags:** #growth
+[YouTube](https://www.youtube.com/watch?v=MN0I0wfyhm8)
+
+---
+
+## 2025-11-13 | Lenny Rachitsky — Why Gamma chose to relaunch
+**Type:** Interview | **Duration:** 1m | **Views:** 2,385 | **Tags:** #product #startup
+[YouTube](https://www.youtube.com/watch?v=r2Ge3WHKq0Y)
 
 ---
 
@@ -573,9 +909,27 @@
 
 ---
 
+## 2025-11-12 | Lenny Rachitsky — How to pitch and win
+**Type:** Interview | **Duration:** 0m | **Views:** 2,275 | **Tags:** #growth #sales
+[YouTube](https://www.youtube.com/watch?v=iqROK2yS3s0)
+
+---
+
+## 2025-11-11 | Lenny Rachitsky — Why relationships help you win the deal
+**Type:** Interview | **Duration:** 0m | **Views:** 1,687 | **Tags:** #growth #sales
+[YouTube](https://www.youtube.com/watch?v=5mL2QysorM8)
+
+---
+
 ## 2025-11-09 | Lenny Rachitsky — $1M to $10M: The enterprise sales playbook with Jen Abel
 **Type:** Interview | **Duration:** 1h 21m | **Views:** 53,732 | **Tags:** #ai #b2b #consumer #design #founder-advice #fundraising #hiring #metrics #pricing #product #saas #sales #startup
 [YouTube](https://www.youtube.com/watch?v=37fKFWdrMyA)
+
+---
+
+## 2025-11-03 | Lenny Rachitsky — Why you need to set "crazy big" goals
+**Type:** Interview | **Duration:** 1m | **Views:** 2,356 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=2kRWpCyER18)
 
 ---
 
@@ -585,15 +939,51 @@
 
 ---
 
+## 2025-11-02 | Lenny Rachitsky — How Canva was built on rejection
+**Type:** Interview | **Duration:** 0m | **Views:** 4,130 | **Tags:** #founder-advice #product #startup
+[YouTube](https://www.youtube.com/watch?v=4zCtooNMHFg)
+
+---
+
+## 2025-10-29 | Lenny Rachitsky — The enginner who lives in the future
+**Type:** Interview | **Duration:** 0m | **Views:** 2,708 | **Tags:** #engineering #product
+[YouTube](https://www.youtube.com/watch?v=gMZbtCZtrdU)
+
+---
+
 ## 2025-10-26 | Dhanji R. Prasanna — How Block is becoming the most AI-native enterprise in the world
 **Type:** Interview | **Duration:** 1h 26m | **Views:** 36,113 | **Tags:** #ai #b2b #career #consumer #engineering #founder-advice #fundraising #hiring #leadership #product #saas #startup
 [YouTube](https://www.youtube.com/watch?v=JMeXWVw0r3E)
 
 ---
 
+## 2025-10-26 | Lenny Rachitsky — Code quality matters less than you think
+**Type:** Interview | **Duration:** 1m | **Views:** 6,451 | **Tags:** #engineering #growth #product
+[YouTube](https://www.youtube.com/watch?v=7lE3oxYEycw)
+
+---
+
+## 2025-10-24 | Lenny Rachitsky — Is AI widening the talent gap?
+**Type:** Interview | **Duration:** 0m | **Views:** 3,106 | **Tags:** #ai #growth #hiring
+[YouTube](https://www.youtube.com/watch?v=_EFLZ0GOESQ)
+
+---
+
 ## 2025-10-23 | Lenny Rachitsky — Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)
 **Type:** Interview | **Duration:** 1h 22m | **Views:** 49,762 | **Tags:** #ai #b2b #design #engineering #founder-advice #fundraising #infrastructure #metrics #product #startup
 [YouTube](https://www.youtube.com/watch?v=qbvY0dQgSJ4)
+
+---
+
+## 2025-10-20 | Lenny Rachitsky — The end of the 4-hour work block
+**Type:** Interview | **Duration:** 0m | **Views:** 3,072 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=bU2IOYRBLfA)
+
+---
+
+## 2025-10-19 | Lenny Rachitsky — Why "lines of code" is a broken metric
+**Type:** Interview | **Duration:** 0m | **Views:** 2,439 | **Tags:** #engineering #product
+[YouTube](https://www.youtube.com/watch?v=qfIeiGhVwsQ)
 
 ---
 
@@ -606,6 +996,12 @@
 ## 2025-10-16 | Dylan Field — Figma’s CEO: Why AI makes design, craft, and quality the new moat for startups
 **Type:** Interview | **Duration:** 1h 26m | **Views:** 203,242 | **Tags:** #ai #career #consumer #design #engineering #founder-advice #fundraising #growth #ipo #leadership #product #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=WyJV6VwEGA8)
+
+---
+
+## 2025-10-10 | Lenny Rachitsky — How is AI evolving?
+**Type:** Interview | **Duration:** 1m | **Views:** 1,193 | **Tags:** #ai #startup
+[YouTube](https://www.youtube.com/watch?v=7fpG3WbnkaM)
 
 ---
 
@@ -635,9 +1031,27 @@
 
 ---
 
+## 2025-09-27 | Lenny Rachitsky — The biggest trap in evals
+**Type:** Interview | **Duration:** 0m | **Views:** 1,941
+[YouTube](https://www.youtube.com/watch?v=iGYDaItiHOk)
+
+---
+
+## 2025-09-26 | Lenny Rachitsky — What everyone gets wrong about evals
+**Type:** Interview | **Duration:** 0m | **Views:** 1,632
+[YouTube](https://www.youtube.com/watch?v=QbbJEf3SfoE)
+
+---
+
 ## 2025-09-25 | Hamel Husain & Shreya Shankar — Why AI evals are the hottest new skill for product builders
 **Type:** Interview | **Duration:** 1h 46m | **Views:** 116,977 | **Tags:** #ai #career #china #design #engineering #fundraising #growth #leadership #product
 [YouTube](https://www.youtube.com/watch?v=BsWxPI9UM4c)
+
+---
+
+## 2025-09-22 | Lenny Rachitsky — Build the feedback loop early
+**Type:** Interview | **Duration:** 0m | **Views:** 2,173 | **Tags:** #career #leadership
+[YouTube](https://www.youtube.com/watch?v=UcEDDO3j7o8)
 
 ---
 
@@ -647,9 +1061,21 @@
 
 ---
 
+## 2025-09-20 | Lenny Rachitsky — How Mercor caught the eval wave
+**Type:** Interview | **Duration:** 1m | **Views:** 2,373
+[YouTube](https://www.youtube.com/watch?v=uoXKFGg1568)
+
+---
+
 ## 2025-09-18 | Brendan Foody — Why experts writing AI evals is creating the fastest-growing companies in history
 **Type:** Interview | **Duration:** 1h 7m | **Views:** 33,314 | **Tags:** #ai #b2b #consumer #engineering #founder-advice #fundraising #growth #hiring #marketplace #metrics #product #saas #startup
 [YouTube](https://www.youtube.com/watch?v=ja6fWTDPQl4)
+
+---
+
+## 2025-09-18 | Lenny Rachitsky — How to get ahead in the AI era
+**Type:** Interview | **Duration:** 0m | **Views:** 2,926 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=vBYjlL749nI)
 
 ---
 
@@ -657,6 +1083,18 @@
 **Companies:** Graphite
 **Type:** Interview | **Duration:** 1h 11m | **Views:** 165,245 | **Tags:** #ai #b2b #china #founder-advice #fundraising #growth #metrics #product #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=iT7kq-R3Gjc)
+
+---
+
+## 2025-09-14 | Lenny Rachitsky — How to get cited by LLMs
+**Type:** Interview | **Duration:** 0m | **Views:** 1,541 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=KJktUpsGH5o)
+
+---
+
+## 2025-09-14 | Lenny Rachitsky — The Reddit strategy for LLM mentions
+**Type:** Interview | **Duration:** 0m | **Views:** 5,440 | **Tags:** #ai #strategy
+[YouTube](https://www.youtube.com/watch?v=1Svw2jc_j4E)
 
 ---
 
@@ -670,6 +1108,12 @@
 ## 2025-09-07 | Oji and Ezinne Udezue — How AI is reshaping the product role
 **Type:** Interview | **Duration:** 1h 18m | **Views:** 18,621 | **Tags:** #ai #career #consumer #design #engineering #founder-advice #fundraising #growth #infrastructure #leadership #product #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=e1R_-esuO9o)
+
+---
+
+## 2025-08-31 | Lenny Rachitsky — You should cancel meetings to learn AI
+**Type:** Interview | **Duration:** 0m | **Views:** 1,928 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=6hvrbWsmAS0)
 
 ---
 
@@ -692,10 +1136,28 @@
 
 ---
 
+## 2025-08-22 | Lenny Rachitsky — Your competition is part-AI
+**Type:** Interview | **Duration:** 0m | **Views:** 3,452 | **Tags:** #ai #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=S38d8MdKKjw)
+
+---
+
+## 2025-08-22 | Lenny Rachitsky — Changing Intercom's culture
+**Type:** Interview | **Duration:** 1m | **Views:** 1,576 | **Tags:** #founder-advice #leadership #startup
+[YouTube](https://www.youtube.com/watch?v=Y9PjRUKr6EE)
+
+---
+
 ## 2025-08-21 | Eoghan McCabe — How Intercom rose from the ashes by betting everything on AI
 **Companies:** founder and CEO
 **Type:** Interview | **Duration:** 1h 23m | **Views:** 51,274 | **Tags:** #ai #b2b #career #founder-advice #fundraising #growth #hiring #leadership #pricing #product #saas #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=0_opWSfmN8M)
+
+---
+
+## 2025-08-18 | Lenny Rachitsky — What's the next distribution platform?
+**Type:** Interview | **Duration:** 1m | **Views:** 3,371 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=Bl0kkswWlKA)
 
 ---
 
@@ -705,9 +1167,48 @@
 
 ---
 
+## 2025-08-17 | Lenny Rachitsky — The game of startups
+**Type:** Interview | **Duration:** 1m | **Views:** 2,475 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=_Ok66Dq4pns)
+
+---
+
+## 2025-08-16 | Lenny Rachitsky — Best practices do not equal business impact
+**Type:** Interview | **Duration:** 0m | **Views:** 1,377 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=0tBK531iv7g)
+
+---
+
 ## 2025-08-14 | Matt LeMay — The one question that saves product careers
 **Type:** Interview | **Duration:** 1h 32m | **Views:** 29,669 | **Tags:** #ai #b2b #career #founder-advice #fundraising #growth #leadership #product #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=ts9ZvlkeWGs)
+
+---
+
+## 2025-08-12 | Nick Turley — Choose smart people over salary
+**Companies:** Head of ChatGPT
+**Type:** Interview | **Duration:** 1m | **Views:** 3,482 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=K8extpJb2Bo)
+
+---
+
+## 2025-08-11 | Nick Turley — The most successful hackathon ever
+**Companies:** Head of ChatGPT
+**Type:** Interview | **Duration:** 0m | **Views:** 2,330 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=1a790iK_iS8)
+
+---
+
+## 2025-08-10 | Nick Turley — Ship first & polish later
+**Companies:** Head of ChatGPT
+**Type:** Interview | **Duration:** 0m | **Views:** 2,710 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=bdViBAz8rPs)
+
+---
+
+## 2025-08-09 | Lenny Rachitsky — Brian Chesky's intensity had a cost
+**Type:** Interview | **Duration:** 1m | **Views:** 2,563 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=1c6g25vXnp4)
 
 ---
 
@@ -715,6 +1216,12 @@
 **Companies:** OpenAI
 **Type:** Interview | **Duration:** 1h 35m | **Views:** 187,295 | **Tags:** #ai #b2b #career #china #founder-advice #fundraising #growth #leadership #pricing #product #startup #strategy
 [YouTube](https://www.youtube.com/watch?v=ixY2PvQJ0To)
+
+---
+
+## 2025-08-06 | Lenny Rachitsky — Sheryl Sandberg's wakeup call to Bret
+**Type:** Interview | **Duration:** 1m | **Views:** 1,333 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=WA_SoMzy8I4)
 
 ---
 
@@ -730,9 +1237,45 @@
 
 ---
 
+## 2025-07-29 | Lenny Rachitsky — Why Anthropic's co-founder left OpenAI
+**Type:** Interview | **Duration:** 0m | **Views:** 2,699 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=7i8n3u9w4Y8)
+
+---
+
+## 2025-07-29 | Lenny Rachitsky — Why your ROI model doesn't work
+**Type:** Interview | **Duration:** 0m | **Views:** 1,880 | **Tags:** #ai #product
+[YouTube](https://www.youtube.com/watch?v=n7qLKBsuNLA)
+
+---
+
+## 2025-07-27 | Lenny Rachitsky — "Does the CEO use ChatGPT?"
+**Type:** Interview | **Duration:** 0m | **Views:** 1,406 | **Tags:** #founder-advice #growth
+[YouTube](https://www.youtube.com/watch?v=Y6_l8G9SQmE)
+
+---
+
 ## 2025-07-27 | Madhavan Ramanujam — Pricing your AI product: Lessons from 400+ companies and 50 unicorns
 **Type:** Interview | **Duration:** 1h 11m | **Views:** 51,424 | **Tags:** #ai #engineering #founder-advice #fundraising #growth #pricing #product #saas #startup #strategy #venture-capital
 [YouTube](https://www.youtube.com/watch?v=NR85H55eYkM)
+
+---
+
+## 2025-07-24 | Lenny Rachitsky — Jake Knapp is the co-creator of the Design Sprint
+**Type:** Interview | **Duration:** 0m | **Views:** 1,790 | **Tags:** #growth #product #startup
+[YouTube](https://www.youtube.com/watch?v=mYYzYZDu8MA)
+
+---
+
+## 2025-07-23 | Lenny Rachitsky — Behind Google's Design Sprint
+**Type:** Interview | **Duration:** 0m | **Views:** 732 | **Tags:** #startup
+[YouTube](https://www.youtube.com/watch?v=BEH-mGD_AeQ)
+
+---
+
+## 2025-07-21 | Lenny Rachitsky — Maor Shlomo is the founder at Base44
+**Type:** Interview | **Duration:** 0m | **Views:** 5,253 | **Tags:** #founder-advice #growth #startup
+[YouTube](https://www.youtube.com/watch?v=qNBVDCN5Uvc)
 
 ---
 
@@ -742,10 +1285,28 @@
 
 ---
 
+## 2025-07-20 | Lenny Rachitsky — "Fish where the fish are"
+**Type:** Interview | **Duration:** 0m | **Views:** 1,796 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=c1Etz0RQjGQ)
+
+---
+
 ## 2025-07-17 | Dan Shipper — The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code.
 **Companies:** Every
 **Type:** Interview | **Duration:** 1h 34m | **Views:** 88,003 | **Tags:** #ai #career #engineering #founder-advice #fundraising #growth #leadership #startup
 [YouTube](https://www.youtube.com/watch?v=crMrVozp_h8)
+
+---
+
+## 2025-07-17 | Lenny Rachitsky — The story behind Sonos' name
+**Type:** Interview | **Duration:** 0m | **Views:** 1,751 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=SNV2m4axIYM)
+
+---
+
+## 2025-07-15 | Lenny Rachitsky — David Placek named CapCut, Vercel, Azure, Windsurf and 4000+ products
+**Type:** Interview | **Duration:** 0m | **Views:** 2,071 | **Tags:** #founder-advice #startup
+[YouTube](https://www.youtube.com/watch?v=3c-RuStEp8o)
 
 ---
 
@@ -761,9 +1322,27 @@
 
 ---
 
+## 2025-07-05 | Lenny Rachitsky — AGI Won't Solve All Our Problems
+**Type:** Interview | **Duration:** 0m | **Views:** 2,377
+[YouTube](https://www.youtube.com/watch?v=vq2eKrkZSxs)
+
+---
+
+## 2025-07-03 | Lenny Rachitsky — The 5 types of PMs
+**Type:** Interview | **Duration:** 1m | **Views:** 2,445 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=GKJN6MbIBYA)
+
+---
+
 ## 2025-07-03 | Andrew Wilkinson — I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea.
 **Type:** Interview | **Duration:** 1h 28m | **Views:** 61,817 | **Tags:** #ai #career #consumer #founder-advice #fundraising #growth #leadership #product #sales #startup #venture-capital
 [YouTube](https://www.youtube.com/watch?v=VxAwUb86MUE)
+
+---
+
+## 2025-07-01 | Lenny Rachitsky — What is red teaming
+**Type:** Interview | **Duration:** 0m | **Views:** 2,007
+[YouTube](https://www.youtube.com/watch?v=63SF908xYXU)
 
 ---
 
@@ -785,10 +1364,34 @@
 
 ---
 
+## 2025-06-18 | Lenny Rachitsky — Decision making is the new bottleneck
+**Type:** Interview | **Duration:** 0m | **Views:** 1,921 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=3-GvpJnaOas)
+
+---
+
+## 2025-06-16 | Lenny Rachitsky — How Anthropic competes with OpenAI
+**Type:** Interview | **Duration:** 0m | **Views:** 1,803 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=tAKCLCAaMIg)
+
+---
+
 ## 2025-06-15 | Hilary Gridley — How to build a team that can “take a punch”
 **Companies:** Head of Core Product, Whoop
 **Type:** Interview | **Duration:** 1h 54m | **Views:** 16,877 | **Tags:** #ai #b2b #career #founder-advice #fundraising #growth #leadership #product #saas
 [YouTube](https://www.youtube.com/watch?v=xm5QAzAlqEY)
+
+---
+
+## 2025-06-14 | Lenny Rachitsky — Sachin Kansal is the CPO at Uber
+**Type:** Interview | **Duration:** 0m | **Views:** 2,069 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=C6yXYr1lYQs)
+
+---
+
+## 2025-06-12 | Lenny Rachitsky — You can't just copy a marketing playbook
+**Type:** Interview | **Duration:** 0m | **Views:** 1,996 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=iY5Spl9kDpc)
 
 ---
 
@@ -798,9 +1401,33 @@
 
 ---
 
+## 2025-06-11 | Lenny Rachitsky — How Binance scaled fast with a global team
+**Type:** Interview | **Duration:** 0m | **Views:** 1,300 | **Tags:** #leadership #product
+[YouTube](https://www.youtube.com/watch?v=Abh0G360SDw)
+
+---
+
+## 2025-06-10 | Lenny Rachitsky — NLX is the new UX
+**Type:** Interview | **Duration:** 0m | **Views:** 1,902 | **Tags:** #design #product
+[YouTube](https://www.youtube.com/watch?v=NrY4ZLT8PZk)
+
+---
+
+## 2025-06-09 | Lenny Rachitsky — Demos Over Memos
+**Type:** Interview | **Duration:** 0m | **Views:** 1,408 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=-wxpRYtU6gs)
+
+---
+
 ## 2025-06-08 | Sebastian Barrios — Mercado Libre: 18k engineers, 30k deploys a day, & their own fleet of planes
 **Type:** Interview | **Duration:** 1h 19m | **Views:** 14,822 | **Tags:** #ai #career #china #consumer #crypto #engineering #founder-advice #fundraising #leadership #product #startup
 [YouTube](https://www.youtube.com/watch?v=puY_dxVKEwU)
+
+---
+
+## 2025-06-06 | Lenny Rachitsky — Dmitry Zlokazov is the Head of Product at Revolut
+**Type:** Interview | **Duration:** 1m | **Views:** 1,411 | **Tags:** #product
+[YouTube](https://www.youtube.com/watch?v=9WKTFwcaYL0)
 
 ---
 
@@ -811,9 +1438,15 @@
 
 ---
 
+## 2025-06-04 | Lenny Rachitsky — Jerry Colonna is the CEO of Reboot.io
+**Type:** Interview | **Duration:** 0m | **Views:** 1,204 | **Tags:** #founder-advice
+[YouTube](https://www.youtube.com/watch?v=6edFfPR-CHw)
+
+---
+
 ## 2025-06-01 | Sachin Kansal — Why Uber’s CPO delivers food on weekends
 **Type:** Interview | **Duration:** 1h 21m | **Views:** 15,820 | **Tags:** #ai #career #consumer #design #founder-advice #fundraising #leadership #marketplace #metrics #product #saas
 [YouTube](https://www.youtube.com/watch?v=MnBZlEQ14fY)
 
 ---
-*End of digest — 132 episodes*
+*End of digest — 237 episodes*

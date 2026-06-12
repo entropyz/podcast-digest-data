@@ -21,3 +21,9 @@ tags:
 
 ## Links
 - [Watch on YouTube](https://www.youtube.com/watch?v=m6B95EUX7-0)
+
+---
+
+## Full Transcript
+
+Kind: captions Language: en I hate talking to customers. I refuse to allow colleagues of mine to talk to customers. Customers don't know what they want and they're very bad because it's a subconscious decision. What I purchase, what I wear is not a conscious decision. And when you're consciously trying to answer a subconscious decision, you actually give misleading information even when you're trying. I have this other line I like which is everything important you need to learn about humans was written by Shakespeare. Just read Shakespeare. Like that's better than all the customer research.
